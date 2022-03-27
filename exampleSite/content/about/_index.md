@@ -4,7 +4,7 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # image
-image: "images/author.jpg"
+image: "images/headshot.jpg"
 
 # meta description
 description: "this is meta description"
@@ -13,8 +13,8 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Shuta Suzuki is a cybersecurity professional at [Deloitte](https://www2.deloitte.com/us/en.html), working in New York City. He has extensive experience in Identity and Access Management (IAM).
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+Shuta earned his undergraduate degree in Computer Science from the [University of Michigan - Ann Arbor](https://umich.edu). He completed the computer security track with significant experience in cryptography.
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+During his free time, Shuta likes to write Japanese calligraphy, attend idol concerts, and visit Disney parks.

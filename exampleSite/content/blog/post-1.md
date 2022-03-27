@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Blog Post Template"
+date: 2022-03-27T06:00:00-04:00
 draft: false
 
 # post thumb
@@ -11,13 +11,11 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "For Myself"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Development"
+  - "Markup"
+  - "Template"
 
 # post type
 type: "featured"
