@@ -27,12 +27,16 @@ type: "featured"
 
 * Basic information about the CISSP exam
 * What I did to prepare
-* My result
+* My CISSP exam result
 * Tips, tricks, and thoughts you should know to pass
 
 <hr>
 
 ##### Basic information about the CISSP exam
+
+Certified Information Systems Security Professional (CISSP) is a professional certification offered by (ISC)2. It is considered as the __gold standard__ certification in the information security space.
+
+For English test takers as of March 2022, the CISSP exam is a 3-hour long [computer adaptive test](https://www.youtube.com/watch?v=yh60kwdvnlE) which mainly consists of multiple choice questions and potentially a few non-multiple choice questions such as drag-and-drop type questions. For non-English test takers, the exam is a 6-hour long computer-based linear test.
 
 <hr>
 
@@ -49,7 +53,11 @@ For a total of **105** hours.
 
 <hr>
 
-##### My result
+##### My CISSP exam result
+
+Definitely felt good to see this result being printed out right after a long period of testing!
+
+![image](../../images/post/image1.jpg)
 
 <hr>
 
@@ -117,13 +125,3 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 <hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
