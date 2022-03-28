@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://shutasuzuki.com/"
+baseURL = "https://shutasuzuki.netlify.app/"
 languageCode = "en-us"
 title = "Shuta's Homepage"
 theme = "liva-hugo"
