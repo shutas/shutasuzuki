@@ -86,9 +86,9 @@ author = "Shuta"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "646-265-1228"
+#mobile = "646-265-1228"
 #email = "shutas@umich.edu"
-location = "Tokyo, Japan"
+location = "New York City, USA"
 # copyright
 copyright = "| copyright &copy; 2022 Shuta Suzuki. All Rights Reserved |"
 

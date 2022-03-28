@@ -4,7 +4,7 @@ date: 2022-03-27T06:00:00-04:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/post-1.jpg"
 
 # meta description
 description: "this is meta description"
@@ -18,7 +18,7 @@ tags:
   - "Template"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Heading 1
