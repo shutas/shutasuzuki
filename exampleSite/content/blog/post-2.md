@@ -50,6 +50,10 @@ Let me first state the background knowledge I had before starting the preparatio
 
 In addition to above, I took a few courses related to computer security along the way which introduced many concepts covered in the CBK. Nonetheless, this exam does not test detailed technical knowledge anyway, so the CISSP exam can be easily cracked without any previous exposure to information security as long as you are properly prepared.
 
+Now on to the good stuff. Let me list everything I did to pass the CISSP exam.
+
+As with any exam, the first step is research, research, and RESEARCH! Thousands of people before us have taken and passed the CISSP exam, so there are a ton of CISSP exam specific information regarding preparation strategies, best study materials, mindsets, tips & tricks, etc. Obviously, you can study for the exam as long as you want and as deep as you want, but surely there are efficient ways to prepare and pass any exam. CISSP is no different. I began by reading through blog posts (like mine!) of those who passed the CISSP exam, researching books and training material they have used. Interestingly, you start to pick up some patterns, for example, that the official study guide written by (ISC)2 is not as good as you may think. (Fun fact: this is because within (ISC)2, those who write the official study guides and the actual exams are completely independent and do not share information - for very good reasons) You should also keep in mind what kind of student you are. I'm not a big reader, so I have a preference for shorter books. Instead, I prefer to be presented with new material visually since they tend to stick with me better. Upon few hours of research, I've narrowed the list of study materials to use until the exam.
+
 The table below sums up the activities and efforts spent to prepare for the CISSP exam. Your time to completion may vary depending on your background.
 
 **Activity** | **Time Spent** 
@@ -89,13 +93,17 @@ I still can't believe I have this document with me. It's one big achievement.
 
 ##### Tips, tricks, and thoughts you should know to pass
 
-> **Pro-tip:** CISSP is a __managerial__ exam, not a technical exam.
+Before I share some neat tips and tricks, if you have decided your study plan, **BOOK YOUR EXAM NOW.** You won't stick to your plan if you make the exam date flexible. Once you book the exam, declare it to everyone around you so that you are held accountable. Afraid that you won't pass the exam and be humiliated by everyone who you told that you will be taking the exam? Maybe that's a good indication that your study plan isn't good enough.
 
-If "policy" is an answer choice, it's most likely the correct answer.
+Let's now look at some useful things to keep in mind throughout your journey to earn your CISSP certification.
 
-> **Pro-tip:** CISSP measures __competency__, not knowledge.
+> **Pro-tip:** CISSP is a __managerial__ exam.
 
+If you've done your research, you probably have already encountered this point. As many people say, "For the CISSP exam, think like a manager/CEO!" It's true - the CISSP is a __manegerial__ exam, not a techical one. Don't be fooled by some answer choices which sound so correct because they offer a concrete, techincal solution. Cybersecurity has to be a **top-down** activity, which means that the very first step in addressing any security risk has to come from senior management. If "policy" is an answer choice, it's most likely the correct answer.
 
+> **Pro-tip:** CISSP measures __competency__.
+
+not knowledge
 
 <hr>
 
