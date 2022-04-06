@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://shutasuzuki.com/"
 languageCode = "en-us"
-title = "Shuta's Homepage"
+title = "Shuta Suzuki | Official Website"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
