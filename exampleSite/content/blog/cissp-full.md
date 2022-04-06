@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/post-2.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Shuta Suzuki's FULL journey to pass the CISSP exam"
 
 # taxonomies
 categories:
