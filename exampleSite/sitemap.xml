@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
@@ -39,46 +38,6 @@
 </url>
 <url>
   <loc>https://shutasuzuki.com/blog/template/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/categories/certification/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/categories/for-myself/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/certification/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/cissp/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/cybersecurity/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/development/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/markup/</loc>
-  <lastmod>2022-04-06T01:19:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shutasuzuki.com/tags/template/</loc>
   <lastmod>2022-04-06T01:19:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>

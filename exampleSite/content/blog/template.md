@@ -1,6 +1,6 @@
 ---
 title: "Blog Post Template"
-date: 2022-03-27T06:00:00-04:00
+date: 2022-03-26T06:00:00-04:00
 draft: false
 
 # post thumb
