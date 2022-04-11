@@ -36,22 +36,36 @@ type: "post"
 
 ##### What I did to prepare for the CISSP exam
 
-TODO
+**Activity** | **Time Spent** 
+--- | --- 
+Researching test preparation materials | 5 hours
+Kelly Handerhan's CISSP Videos | 40 hours
+Eleventh Hour | 40 hours
+Destination Certification training | 60 hours
+
+For a total of **145** hours.
 
 <hr>
 
 ##### Tips and tricks you should know to pass
 
-* Book your exam **NOW**
->> After you make a reasonable study plan, you have to stick to the schedule. CISSP covers a wide range of topics, so you will have the opportunity to endlessly procrastinate if you can't commit on a date. The best way to stick to your plan is to book your exam so that you are limiting the amount of time you have left before taking your CISSP exam. Still unsure if you want to book your exam now? Maybe you unconsciously know that your plan isn't good enough.
+> Book your exam **NOW**.
+* This helps you stick to your plan and avoid procrastination.
 
-* Think like a manager/CEO
->> You might have already heard this before elsewhere, but it's true. Cybersecurity is a __top-down__ activity, which means that your first and best bet to addressing any information security issue should come from senior management. If any answer choices offer an activity that your CEO or your Board of Directors can take action (like __"policy"__!), then most likely the best answer.
+> Think like a **manager/CEO**.
+* Effective information security program must be top-down.
 
-* Review the flow of testing at Pearson VUE professional testing center
->> If you have never taken an exam at a Pearson VUE professional testing center, take a moment to review the flow of the testing day. [Here](https://www.youtube.com/watch?v=MlQr9Meee0I) is a sample video that matches exactly what I experienced on my test day.
+> Focus on **competency**, not knowledge.
+* The CISSP exam determines whether you are a competent security professional, not a security bookworm.
 
-** Does this change anything?
+> **Read only the question.** Predict the answer. Then read your answer choices.
+* Answer choices can be tricky, because they may all sound like valid choices. Don't let them fool you.
+
+> If you don't know the answer, make your bet and **move on**.
+* Remember that 25 questions on your exam are prototype questions that are unscored.
+
+> Review the flow of testing at Pearson VUE professional testing center
+* Check [here](https://www.youtube.com/watch?v=MlQr9Meee0I) if you have never been to a Pearson VUE professional testing center.
 
 <hr>
 
@@ -59,6 +73,6 @@ All the best!
 
 <hr>
 
-P.S.: If you want to learn more about the details of my journey to pass the CISSP exam, click [here](https://shutasuzuki.com/blog/cissp-full/).
+**P.S.:** If you want to learn more about the details of my journey to pass the CISSP exam, click [here](https://shutasuzuki.com/blog/cissp-full/).
 
 <hr>

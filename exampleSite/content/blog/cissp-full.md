@@ -63,11 +63,11 @@ The table below sums up the activities and efforts spent to prepare for the CISS
 **Activity** | **Time Spent** 
 --- | --- 
 Researching test preparation materials | 5 hours
-Kelly Handerhan's CISSP Videos | 20 hours
-Eleventh Hour | 20 hours
+Kelly Handerhan's CISSP Videos | 40 hours
+Eleventh Hour | 40 hours
 Destination Certification training | 60 hours
 
-For a total of **105** hours.
+For a total of **145** hours.
 
 <hr>
 
@@ -97,21 +97,39 @@ I still can't believe I have this document with me. It's one big achievement.
 
 ##### Tips, tricks, and thoughts you should know to pass
 
-Before I share some neat tips and tricks, if you have decided your study plan, **BOOK YOUR EXAM NOW.** You won't stick to your plan if you make the exam date flexible. Once you book the exam, declare it to everyone around you so that you are held accountable. Afraid that you won't pass the exam and be humiliated by everyone who you told that you will be taking the exam? Maybe that's a good indication that your study plan isn't good enough.
+Before I share some neat tips and tricks, if you have decided your study plan, **BOOK YOUR EXAM NOW.** You won't stick to your plan if you make the exam date flexible. Once you book the exam, declare it to everyone around you so that you are held accountable. Are you afraid that you won't pass the exam and be humiliated by everyone who you told that you'll be taking the exam? Maybe that's an indication that your study plan isn't good enough.
 
 Let's now look at some useful things to keep in mind throughout your journey to earn your CISSP certification.
 
 > **Pro-tip:** CISSP is a __managerial__ exam.
 
-If you've done your research, you probably have already encountered this point. As many people say, "For the CISSP exam, think like a manager/CEO!" It's true - the CISSP is a __manegerial__ exam, not a techical one. Don't be fooled by some answer choices which sound so correct because they offer a concrete, techincal solution. Cybersecurity has to be a **top-down** activity, which means that the very first step in addressing any security risk has to come from senior management. If "policy" is an answer choice, it's most likely the correct answer.
+If you've done your research, you probably have already encountered this point. As many people say, "For the CISSP exam, think like a manager/CEO!" It's true - the CISSP is a __managerial__ exam, not a techical one. Don't be fooled by some answer choices which sound so correct because they offer a concrete, techincal solution. Cybersecurity has to be a **top-down** activity, which means that the very first step in addressing any security risk has to come from senior management. If "policy" is an answer choice, it's most likely the correct answer.
 
-> **Pro-tip:** CISSP measures __competency__.
+> **Pro-tip:** CISSP measures __competency__, not knowledge.
 
-not knowledge
+As the name implies, CISSP is a __professional__ exam. What this means is that the exam is not meant to test your ability to memorize the smallest technical details, but rather your __competency__ to make the best decisions as a security professional. This mindset is important to keep in mind since we (technical professionals like me and you!) tend to focus on the technical aspects of secure technology. 
+
+Yes, you still need to memorize new concepts and details to a certain degree. You can't make a good security decision without baseline knowledge and understanding. But it's most likely not a good use of your time to memorize the list of standard attributes on an X.509 certificate, but you should be prepared to answer what you might do with X.509 certificates if your organization's private key has been compromised (e.g. have your certificate be listed on your certificate authority's certificate revocation list? Or even better... check your organization's policy!). Always remember to take a step back and think about how the material you are currently studying fit into the overall vision of information security.
+
+> **Pro-tip:** Don't let your answer choices choose you. **You choose them.**
+
+There will be many questions on the exam where you're given multiple "good" answer choices and one "best" answer choice. The CISSP exam is testing your competency to choose the "best" one, but this becomes exponentially more difficult if you passively read through your choices instead of actively searching for the best choice.
+
+This takes practice, but it can be done. Make it a habit to read __only the question__ first and focus on collecting the "key" words/phrases in the question that defines it unique. Are we looking for something that guarantees "authenticity" or "integrity"? Is the service "internal" or "external"? "Who" is trying to protect "what"? You might need to read through the question a few times identify key terms and internalize what the question is asking.
+
+Once you know what the question is asking for, make a prediction for the answer. Only then should you go ahead and read your given answer choices to see if any of them match what you had in mind. This method helps you avoid picking an answer choice that looks appealing because it looks good, but maybe not good enough.
 
 <hr>
 
-If you have never taken a test with Pearson VUE at their profesional testing centers (like me), then you should review [what to expect on your test day](https://www.youtube.com/watch?v=MlQr9Meee0I). 
+> **Pro-tip:** If you don't know the answer, give your best shot and **move on**.
+
+CISSP covers such a wide range of topics that no one will ever be able to completely cover them in detail. Accordingly, you will encounter questions that ask you something you may have no idea about. BUT THAT'S OKAY. Make your best educated guess, and move on.
+
+Since the CISSP exam is an adaptive test (at least for those who are taking the exam in English), many exam takers spend more than necessary amount of time when they come across a question for which they are not sure of the answer, let alone a question that introduces something they have never heard of before. Because they cannot skip and return to the question later in the exam, they try to spend time to think and see if they can come up with an answer with a creative justification. Don't be that person! Remember that your exam will contain 25 prototype questions (that's 25% of your entire exam if you finish it right at 100 questions!) that are unscored. It's very likely that the question you're stuck on is one of them. Just make your best bet, and shift your focus onto the next question.
+
+<hr>
+
+Also as an end note, if you have never taken a test with Pearson VUE at their profesional testing centers (like me), then you should review [what to expect on your test day](https://www.youtube.com/watch?v=MlQr9Meee0I). 
 
 <hr>
 
