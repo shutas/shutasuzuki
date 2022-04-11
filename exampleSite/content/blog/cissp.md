@@ -42,7 +42,7 @@ Below is a table that lists everything I did to prepare for the CISSP exam. It's
 --- | --- 
 Researching test preparation materials | 5 hours
 [Kelly Handerhan's CISSP Videos (Cybrary)](https://www.cybrary.it/course/cissp/) | 40 hours
-[Eleventh Hour CISSP: Study Guide (Syngress)](https://amzn.to/3E1opOn) | 40 hours
+[Eleventh Hour CISSP: Study Guide (Eric Conrad)](https://amzn.to/3E1opOn) | 40 hours
 [Destination Certification](https://www.destcert.com/) training | 60 hours
 
 For a total of **145** hours.
