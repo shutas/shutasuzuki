@@ -73,6 +73,8 @@ For a total of **145** hours.
 
 All the best!
 
+Shuta
+
 <hr>
 
 **P.S.:** If you want to learn more about the details of my journey to pass the CISSP exam, click [here](https://shutasuzuki.com/blog/cissp-full/).
