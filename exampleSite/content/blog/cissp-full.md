@@ -50,7 +50,7 @@ To pass the CISSP exam, you need to earn at least 700 out of 1000 on a scaled sc
 
 ##### What I did to prepare
 
-Let me first state the background knowledge I had before starting the preparation for this exam. I have an undergraduate degree in computer science where I realized my hatred for computer programming. Fixing your own code, let alone other people's code, was a total nightmare. In my last year of college, I cut courses that required countless nights of battling with buggy code and cans of Monster drinks. Instead, I focused on taking more theoretical computer science courses. My last semester of college was devoted to drafting proofs by reduction to mathematically show the security guarantees of various cryptosystems. I ended up taking many computer science courses which do not use computers at all.
+Let me first state the background knowledge I had before starting the preparation for this exam. I have an undergraduate degree in computer science where I realized my hatred for computer programming. Fixing your own code, let alone other people's code, was a total nightmare. In my last year of college, I cut courses that required countless nights of battling buggy code with cans of Monster. Instead, I focused on taking more theoretical computer science courses. It's ironic that I ended up taking many computer science courses which do not use computers at all.
 
 In addition to above, I took a few courses related to computer security along the way which introduced many concepts covered in the CBK. Nonetheless, this exam does not test detailed technical knowledge anyway, so the CISSP exam can be easily cracked without any previous exposure to information security as long as you are properly prepared.
 
@@ -63,11 +63,13 @@ The table below sums up the activities and efforts spent to prepare for the CISS
 **Activity** | **Time Spent** 
 --- | --- 
 Researching test preparation materials | 5 hours
-Kelly Handerhan's CISSP Videos | 40 hours
-Eleventh Hour | 40 hours
-Destination Certification training | 60 hours
+[Kelly Handerhan's CISSP Videos (Cybrary)](https://www.cybrary.it/course/cissp/) | 40 hours
+[Eleventh Hour CISSP: Study Guide (Syngress)](https://amzn.to/3E1opOn) | 40 hours
+[Destination Certification](https://www.destcert.com/) training | 60 hours
 
 For a total of **145** hours.
+
+I do want to point out here that as I was completing each of these activities, I spent my fair share of time reviewing and filling in knowledge gaps which I've included in the "Time Spent". For example, Kelly Handerhan's CISSP course on Cybrary is a little shy of 20 hours, but I rewatched certain videos a few times until I was able to digest the content and did further research on the Internet to solidify my understanding.
 
 <hr>
 
