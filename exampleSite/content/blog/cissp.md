@@ -23,14 +23,14 @@ type: "post"
 
 <hr>
 
-> Click [here](https://shutasuzuki.com/blog/cissp-full/) for a full and verbose post on my journey to pass the CISSP exam.
-
-<hr>
-
 #### What's covered in this post?
 
 * What I did to prepare for the CISSP exam
 * Tips and tricks you should know to pass
+
+<hr>
+
+> Click [here](https://shutasuzuki.com/blog/cissp-full/) for a full and verbose post on my journey to pass the CISSP exam.
 
 <hr>
 

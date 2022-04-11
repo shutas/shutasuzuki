@@ -23,16 +23,16 @@ type: "featured"
 
 <hr>
 
-> Click [here](https://shutasuzuki.com/blog/cissp/) for a short and condensed post on my journey to pass the CISSP exam.
-
-<hr>
-
 #### What's covered in this post?
 
 * Basic information about the CISSP exam
 * What I did to prepare
 * My CISSP exam day
 * Tips, tricks, and thoughts you should know to pass
+
+<hr>
+
+> Click [here](https://shutasuzuki.com/blog/cissp/) for a short and condensed post on my journey to pass the CISSP exam.
 
 <hr>
 
