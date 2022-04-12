@@ -1,6 +1,6 @@
 ---
 title: "How I Passed the CISSP Exam"
-date: 2022-03-27T08:30:00-04:00
+date: 2022-04-10T08:30:00-04:00
 draft: false
 
 # post thumb
