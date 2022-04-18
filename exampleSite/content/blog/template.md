@@ -1,10 +1,10 @@
 ---
 title: "Blog Post Template"
-date: 2022-03-26T06:00:00-04:00
+date: 3000-03-26T06:00:00-04:00
 draft: false
 
 # post thumb
-image: "images/post/post-1.jpg"
+image: "images/post/template.jpg"
 
 # meta description
 description: "Shuta Suzuki's blog post template."

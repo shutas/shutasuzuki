@@ -4,7 +4,7 @@ date: 2022-03-27T08:30:00-04:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-2.jpg"
+image: "images/featured-post/cissp-full.jpg"
 
 # meta description
 description: "Shuta Suzuki's FULL journey to pass the CISSP exam"
