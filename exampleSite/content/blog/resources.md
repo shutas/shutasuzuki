@@ -43,8 +43,9 @@ Youtube is also a treasure box filled with a wide range of cybersecurity content
 
 **Youtube Link** | **Comment**
 -- | --
-[NetworkChuck](https://www.youtube.com/c/NetworkChuck) | NetworkChuck channel has a strong focus on network infrastructure security, but it also has a good selection of videos that cover skills that are good to have as a "hacker".
-[Jason Haddix](https://www.youtube.com/results?search_query=Jason+Haddix) | Jason Haddix is an information security professional who actively shares his experiences in bug bounty. Jason doesn't have his own channel, but there are videos of him giving lectures at security conferences like DEFCON.
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | HackerSploit channel has videos for beginners through advanced professionals seeking to learn more about the field of offensive security. From using tools to executing exploits, it has great content for those who are interested in becoming an ethical hacker.
+[NetworkChuck](https://www.youtube.com/c/NetworkChuck) | NetworkChuck channel has a strong focus on network infrastructure security, but it also has a good selection of videos that cover skills that are good to have as an ethical hacker.
+[Jason Haddix](https://www.youtube.com/results?search_query=Jason+Haddix) | Jason Haddix is an information security professional who actively shares his experiences in bug bounty. Jason doesn't have his own channel, but there are videos of him giving lectures at security conferences like DEF CON.
 
 <hr>
 
