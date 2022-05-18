@@ -1,5 +1,5 @@
 ---
-title: "Top Cybersecurity Learning Resources [UPDATED: April 2022]"
+title: "My Top Cybersecurity Learning Resources"
 date: 2022-04-17T06:00:00-04:00
 draft: false
 
