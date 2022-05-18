@@ -36,6 +36,7 @@ Good tools help you get to where you need faster. Efficiency is key to getting t
 -- | --
 [Notion](https://www.notion.so/) | Let me just say that I use this for EVERYTHING. From taking notes to keeping track of my to-do's, this is my one-stop shop to get everything done. There are native Windows/Mac apps, but you can use their web app in case you are working in an atypical environment. Everything will be synced, so you can jump right back into the zone from anywhere. I've been using this quite extensively, but so far I've been able to get by their free personal plan and never had to pay a single penny.
 [StudyWorks](https://www.youtube.com/channel/UClfss8GiZToQOdMREVllr_w) | StudyWorks is a YouTube channel where there are currently timer videos you can use when you're studying, working, or just getting things done. I like to use their timers that follow the [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique) as they help me concentrate by breaking up my work time into manageable chunks.
+[Vim](https://www.vim.org/) | This tool probably needs no introduction for our developers out there, but Vim is a text editor commonly used in Unix systems. Notorious for being cryptic and *not* beginner-friendly, Vim is sometimes one of the few options you need to choose when you're working in an enviroment without a GUI. Vim is highly customizable, and if you take the time to learn the key strokes and shortcuts, it'll exponentially increase your productivity to edit any text-based files.
 
 <hr>
 
