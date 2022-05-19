@@ -1,4 +1,7 @@
-<h1 align=center>Liva Hugo | <a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fliva%2F">Page Speed (77%)</a></h1>
+<p align="center">
+  <img src="https://shutasuzuki.com/images/shuta.png" alt="Liva Blog template by themefisher">
+</p>
+<h1 align=center> <a target="_blank" href="https://shutasuzuki.com/" rel="nofollow">Shuta Suzuki | Official Website</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -8,94 +11,33 @@
   <a href="https://github.com/gethugothemes/liva-hugo/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/gethugothemes/liva-hugo" alt="license"></a>
 
-  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/liva-hugo" alt="code size">
+  <img src="https://img.shields.io/github/languages/code-size/shutas/shutasuzuki" alt="code size">
 
-  <a href="https://github.com/gethugothemes/liva-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/gethugothemes/liva-hugo" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
 </p>
 
----
+## Introduction
+Welcome to the GitHub repository for Shuta Suzuki's Official Website! This repository hosts the source code for my personal website, and Netlify references this repo to host my website on their servers. Check out my website [here](https://shutasuzuki.com/).
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37659754/67829978-3984f800-fb03-11e9-82d2-a38490c6ceaf.gif" width="100%" alt="Liva Blog template by themefisher">
-</p>
-
----
-## Features
-- Google analytics  support
-- CSS and JS bundle with hugo pipe
-- Netlify settings predefine
-- Contact form Support
-- Search by fuse.js 
-- GDPR consent enable
-- Google page speed optimized ( 77% )
-- Open graph meta tag
-- Twitter card meta tag
-
-## Local development
-
+## Local Development Setup
 ```bash
-# clone the repository
-git clone git@github.com:gethugothemes/liva-hugo.git
+# Clone this repository
+$ git clone git@github.com:shutas/shutasuzuki.git
 
-# cd in the project directory
+# Navigate to project directory
 $ cd liva-hugo/exampleSite/
 
-# Start local dev server
+# Start local dev server on your host
 $ hugo server --themesDir ../..
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/liva/?ref=github).
 
-## Content Management System
+## Live Deployment Status
+| Service | Status |
+| --- | --- |
+| **Netlify** | [![Netlify Status](https://api.netlify.com/api/v1/badges/9dcca2be-24bf-4e62-adf7-feff2e30bc49/deploy-status)](https://app.netlify.com/sites/shutasuzuki/deploys) |
+| **GitHub** | <img src="https://img.shields.io/github/last-commit/shutas/shutasuzuki" alt="github-latest-commit"> |
 
-[![import to
-Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/liva-hugo&engine=hugo&version=0.87.0)
-
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
-repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/liva-hugo&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
-
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
-
-## Deployment and hosting
-
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/liva-hugo)
-
-Follow the steps.
-
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Liva Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
-
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the liva Template. Please Search [existing
-issues](https://github.com/gethugothemes/liva-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/liva-hugo/issues).
-
-<!-- ## Liva Hugo theme Powered Websites
-
-
-View all the websites powered by Liva Hugo theme [here](https://github.com/gethugothemes/liva-hugo/wiki/All-liva-hugo-theme-Powered-Websites). Want to submit your own website powered by Liva Hugo theme? You can submit it [here](https://github.com/gethugothemes/liva-hugo/discussions/46). -->
-
-<!-- licence -->
-## License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
-
-**Code License:** Released under the [MIT](https://github.com/gethugothemes/liva-hugo/blob/master/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
-
-<!-- resources -->
-## Special Thanks
+## Technologies Used and Special Thanks
+- [Gethugothemes](https://gethugothemes.com)
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Themify Icons](https://themify.me/themify-icons)
@@ -106,14 +48,3 @@ share those images.
 - [All Contributors](https://github.com/gethugothemes/liva-hugo/graphs/contributors)
 
 
-## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[Services](https://gethugothemes.com/services/?utm_source=liva_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=liva_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.webp)](https://gethugothemes.com/products/parsa/) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.webp)](https://gethugothemes.com/products/logbook/) |
-|:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Parsa**  | **Logbook**  |
