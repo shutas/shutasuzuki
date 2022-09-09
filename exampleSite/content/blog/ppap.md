@@ -57,6 +57,6 @@ Let's say you somehow modified the specification of encrypted zip files in such 
 
 3. If the encrypted zip file contained malware, it will make it harder for both signature-based and behavior-based (e.g. sandbox detection) antivirus software to detect it. (This isn't necessarily a flaw specific to PPAP, but any transmitted data that are encrypted has this issue)
 
-All in all, PPAP isn't really secure, if not secure at all. The practice of using PPAP has been quite popular in Japan, and it still is today. The false sense of security is a major issue which requires massive re-education of Japanese IT users. Instead of PPAP, let's stick to file sharing protocols like [SFTP](https://www.ssh.com/academy/ssh/sftp) for now. 
+All in all, PPAP isn't really secure, if not secure at all. The practice of using PPAP has been quite popular in Japan, and it still is today. The false sense of security is a major issue which requires massive re-education of Japanese IT users. Instead of PPAP, let's stick to file trasfer protocols like [SFTP](https://www.ssh.com/academy/ssh/sftp) for now. 
 
 Shuta
