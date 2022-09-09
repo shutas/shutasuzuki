@@ -7,13 +7,13 @@ draft: false
 image: "images/headshot.jpg"
 
 # meta description
-description: "this is meta description"
+description: "About Shuta Suzuki"
 
 # type
 type : "about"
 ---
 
-Shuta Suzuki is a cybersecurity professional at [Deloitte](https://www2.deloitte.com/us/en.html). He began his career in New York City where he gained extensive experience in the Identity and Access Management (IAM) space. Shuta is interested in cloud infrastructure, offensive security, and business enablement through cybersecurity.
+Shuta Suzuki is a cybersecurity professional at [Deloitte](https://www2.deloitte.com/jp/en.html). He began his career in New York City where he gained extensive experience in the Identity and Access Management (IAM) space, and he is currently based in Tokyo where he focuses on cyber strategy work. Shuta is interested in cloud infrastructure, offensive security, and business enablement through cybersecurity.
 
 Shuta's motto is "*Don't be ashamed of your ignorance, be ashamed of remaining ignorant.*" of which the original quote in Japanese「無知を恥じず、無知に甘えることに恥じる」comes from Katsura Bunshi V, a rakugo artist from the 20th century. Shuta abides by this motto with his strong dedication and commitment to continuous learning.
 
