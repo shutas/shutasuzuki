@@ -7,7 +7,7 @@ draft: false
 image: "images/post/email.jpg"
 
 # meta description
-description: "PPAP, an email attachment protection protocol (?) in Japan."
+description: "PPAP, an email attachment protection protocol in Japan."
 
 # taxonomies
 categories:
@@ -24,12 +24,12 @@ type: "post"
 
 #### What's covered in this post?
 
-* PPAP: A unique "protocol" to secure email attachments in Japan
+* PPAP: A unique "protocol" to protect email attachments in Japan
 * Is PPAP really secure?
 
 <hr>
 
-##### PPAP: A unique "protocol" to secure email attachments in Japan
+##### PPAP: A unique "protocol" to protect email attachments in Japan
 
 Most people will probably agree that Japan cultivates a unique culture of its own. From ***kimono*** to ***anime*** and everything in between, Japan has a track record of differentiating itself from the rest of the globe. Sharing no borders with its neighboring countries, Japan's [Galápagos syndrome](https://medium.com/@alxgcs/understanding-the-galapagos-syndrome-through-japans-unique-quirks-967dcbc05d47) never fails to surprise us with the alternative paths human evolution can take.
 
@@ -57,6 +57,6 @@ Let's say you somehow modified the specification of encrypted zip files in such 
 
 3. If the encrypted zip file contained malware, it will make it harder for both signature-based and behavior-based (e.g. sandbox detection) antivirus software to detect it. (This isn't necessarily a flaw specific to PPAP, but any transmitted data that are encrypted has this issue)
 
-All in all, PPAP isn't really secure, if not secure at all. The practice of using PPAP has been quite popular in Japan, and it still is today. The false sense of security is a major issue which requires massive re-education of Japanese IT users. Instead of PPAP, let's stick to file trasfer protocols like [SFTP](https://www.ssh.com/academy/ssh/sftp) for now. 
+All in all, PPAP isn't really secure, if not secure at all. The practice of using PPAP has been quite popular in Japan, and it still is today. The false sense of security is a major issue which requires massive re-education of Japanese IT users. Instead of PPAP, let's stick to file transfer protocols like [SFTP](https://www.ssh.com/academy/ssh/sftp) for now. 
 
 Shuta
